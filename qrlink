@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Choisissez un formulaire</title>
+    <title>Choisissez un formulaire (vous pouvez remplir les deux formulaires) </title>
     <style>
         body {
             font-family: Arial, sans-serif;
