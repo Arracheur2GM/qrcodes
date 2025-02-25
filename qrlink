@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choisissez un formulaire</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        a {
+            display: block;
+            margin: 20px;
+            font-size: 18px;
+            text-decoration: none;
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+    <h2>Choisissez un formulaire :</h2>
+    <a href="https://docs.google.com/forms/d/1nODdqQzFzrhJHvy10TnGRHiQvQRw6yOszstYiQJWPfU/edit" target="_blank">Formulaire 1</a>
+    <a href="https://docs.google.com/forms/d/1vQ5ng9I1zty2io7UC5CyU1J3nxNKOlxBFkIeK6FnwjM/edit?ts=67b8383e" target="_blank">Formulaire 2</a>
+</body>
+</html>
