@@ -22,7 +22,7 @@
 </head>
 <body>
     <h2>Veuillez remplir le formulaire pour participer à 1 ou 2 études:</h2>
-    <p><a href="[https://docs.google.com/forms/d/1nODdqQzFzrhJHvy10TnGRHiQvQRw6yOszstYiQJWPfU/edit](https://docs.google.com/forms/d/e/1FAIpQLSfos5f2LIINSe1CPw7FjWiAaBEOnxhuwgFva9AbrpbeffnbfA/viewform?usp=header)" target="_blank"><strong>Exp 1 (4 séances)</strong></a></p>
+    <p><a href="[https://docs.google.com/forms/d/1nODdqQzFzrhJHvy10TnGRHiQvQRw6yOszstYiQJWPfU/edit](https://docs.google.com/forms/d/e/1FAIpQLSfos5f2LIINSe1CPw7FjWiAaBEOnxhuwgFva9AbrpbeffnbfA/viewform?usp=header)" target="_blank"><strong>Formulaire</strong></a></p>
 </body>
 </html>
 
